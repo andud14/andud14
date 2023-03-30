@@ -11,7 +11,7 @@
   <a href="https://twitter.com/anton_yngdyn">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <br><br>  
+    <br>
 </div>
   <br>
   <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
