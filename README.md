@@ -44,7 +44,9 @@
 <img src="https://github.com/andud14/andud14/blob/main/logos/backlog.svg"  width="40" height="40"/>&nbsp;
 </a>
   
-
+<a href="https://www.last.fm/user/AnDuD14">
+<img src="https://github.com/andud14/andud14/blob/main/logos/lastfm.svg"  width="40" height="40"/>&nbsp;
+</a>
 
 <br>
 </div>
