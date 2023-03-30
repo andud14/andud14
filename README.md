@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  <h1 align="center">Hi 👋, I'm AnDuD14</h1>
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
   <div id="badges">
     <a href="https://steamcommunity.com/id/AnDuD/">
