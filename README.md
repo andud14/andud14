@@ -1,6 +1,7 @@
 <h1 align="center">Привет 👋</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
 </div>
   
 
@@ -10,7 +11,7 @@
 - :newspaper: Пишу статьи про видеоигры
 - :guitar: Играю на гитаре и создаю свои песни
 ---
----
+
 ### :hammer_and_wrench: Где меня можно найти:
   <div id="badges">
     <a href="https://steamcommunity.com/id/AnDuD/">
@@ -24,7 +25,6 @@
   </a>
     <br><br>
     
-  <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
 ---
