@@ -15,6 +15,11 @@
 
 ### :face_in_clouds: Где меня можно найти:
 <div>
+  
+<a href="https://vk.com/andud14">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg"  width="40" height="40"/>&nbsp;
+</a>
+  
 <a href="https://steamcommunity.com/id/AnDuD/">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Steam.svg"  width="40" height="40"/>&nbsp;
 </a>
@@ -22,10 +27,11 @@
 <a href="https://www.youtube.com/@andud1">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"  width="40" height="40"/>&nbsp;
 </a>
+  
 <a href="https://twitter.com/anton_yngdyn">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"  width="40" height="40"/>&nbsp;
 </a>
-  
+
 <br>
 </div>
 
