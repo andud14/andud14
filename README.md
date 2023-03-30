@@ -1,6 +1,7 @@
 <h1 align="center">Привет 👋</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
 </div>
   
@@ -23,9 +24,7 @@
   <a href="https://twitter.com/anton_yngdyn">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    <br><br>
-    
-</div>
+    <br><br>  
 </div>
 ---
 
