@@ -20,6 +20,10 @@
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg"  width="40" height="40"/>&nbsp;
 </a>
   
+<a href="https://twitter.com/anton_yngdyn">
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"  width="40" height="40"/>&nbsp;
+</a>
+  
 <a href="https://steamcommunity.com/id/AnDuD/">
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Steam.svg"  width="40" height="40"/>&nbsp;
 </a>
@@ -28,8 +32,8 @@
 <img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"  width="40" height="40"/>&nbsp;
 </a>
   
-<a href="https://twitter.com/anton_yngdyn">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"  width="40" height="40"/>&nbsp;
+<a href="https://dtf.ru/u/598446-anton-dudchenko">
+<img src="https://github.com/andud14/andud14/blob/main/logos/dtf.svg"  width="40" height="40"/>&nbsp;
 </a>
 
 <br>
