@@ -1,5 +1,14 @@
 <h1 align="center">Привет 👋</h1>
   
+
+---
+### :face_in_clouds: Обо мне :
+- :nerd_face: Новичок в фронтенд-разработке
+- :newspaper: Пишу статьи про видеоигры
+- :guitar: Играю на гитаре и создаю свои песни
+---
+---
+### :hammer_and_wrench: Где меня можно найти:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
   <div id="badges">
@@ -17,12 +26,6 @@
   <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
 </div>
 </div>
-
----
-### :face_in_clouds: Обо мне :
-- :nerd_face: Новичок в фронтенд-разработке
-- :newspaper: Пишу статьи про видеоигры
-- :guitar: Играю на гитаре и создаю свои песни
 ---
 
 ### :hammer_and_wrench: Изучаемые языки и инструменты:
