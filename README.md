@@ -14,7 +14,7 @@
 ---
 
 ### :hammer_and_wrench: Где меня можно найти:
-  <div id="badges">
+  <div>
     <a href="https://steamcommunity.com/id/AnDuD/">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
@@ -26,7 +26,6 @@
   </a>
     <br><br>  
 </div>
----
 
 ### :hammer_and_wrench: Изучаемые языки и инструменты:
 <div>
