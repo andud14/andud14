@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
-  
   <div id="badges">
     <a href="https://steamcommunity.com/id/AnDuD/">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
@@ -15,8 +14,10 @@
     
   <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
 </div>
-  
-  
-  
 </div>
 
+### :face_in_clouds: About Me :
+
+- :nerd_face: Learning frontend development
+- :newspaper: Write articles about video games
+- :guitar: Play guitar and write my own music
