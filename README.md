@@ -1,5 +1,4 @@
-<h1 align="center">Привет 👋, Я AnDuD14</h1>
-<h3 align="left">Начинающий фронтенд-разработчик</h3>
+<h1 align="center">Привет 👋</h1>
   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
