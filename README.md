@@ -16,6 +16,7 @@
 </div>
 </div>
 
+---
 ### :face_in_clouds: About Me :
 
 - :nerd_face: Learning frontend development
