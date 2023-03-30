@@ -2,19 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
-</div>
-  
-
----
-### :face_in_clouds: Обо мне :
-- :nerd_face: Новичок в фронтенд-разработке
-- :newspaper: Пишу статьи про видеоигры
-- :guitar: Играю на гитаре и создаю свои песни
----
-
-### :hammer_and_wrench: Где меня можно найти:
-  <div>
+    <div>
     <a href="https://steamcommunity.com/id/AnDuD/">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
   </a>
@@ -26,6 +14,18 @@
   </a>
     <br><br>  
 </div>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
+</div>
+  
+
+---
+### :face_in_clouds: Обо мне :
+- :nerd_face: Новичок в фронтенд-разработке
+- :newspaper: Пишу статьи про видеоигры
+- :guitar: Играю на гитаре и создаю свои песни
+---
+
 
 ### :hammer_and_wrench: Изучаемые языки и инструменты:
 <div>
