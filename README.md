@@ -17,8 +17,19 @@
 </div>
 
 ---
-### :face_in_clouds: About Me :
+### :face_in_clouds: Обо мне :
+- :nerd_face: Новичок в фронтенд-разработке
+- :newspaper: Пишу статьи про видеоигры
+- :guitar: Играю на гитаре и пишу свои песни
+---
 
-- :nerd_face: Learning frontend development
-- :newspaper: Write articles about video games
-- :guitar: Play guitar and write my own music
+### :hammer_and_wrench: Изучаемые языки и инструменты:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"width="40" height="40"/>&nbsp;
+</div>
+
