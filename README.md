@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
-  <br><br>
   
   <div id="badges">
     <a href="https://steamcommunity.com/id/AnDuD/">
