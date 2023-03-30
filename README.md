@@ -1,27 +1,29 @@
 <h1 align="center">Привет 👋</h1>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TIiyJfz7iHIv64031w/giphy.gif" width="100"/>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=andud14&style=flat-square&color=blue" alt=""/>
 </div>
   
 
 ---
-### :face_in_clouds: Обо мне :
+### :face_in_clouds: Обо мне:
 - :nerd_face: Новичок в фронтенд-разработке
 - :newspaper: Пишу статьи про видеоигры
 - :guitar: Играю на гитаре и создаю свои песни
 ---
 
+### :face_in_clouds: Где меня можно найти:
 <div>
 <a href="https://steamcommunity.com/id/AnDuD/">
-<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Steam.svg"/>
 </a>
   
 <a href="https://www.youtube.com/@andud1">
-<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg"/>
 </a>
 <a href="https://twitter.com/anton_yngdyn">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"/>
 </a>
   
 <br>
