@@ -16,10 +16,6 @@
 ### :face_in_clouds: Где меня можно найти:
 <div>
   
-<a href="https://vk.com/andud14">
-<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/VK.svg"  width="40" height="40"/>&nbsp;
-</a>
-  
 <a href="https://dtf.ru/u/598446-anton-dudchenko">
 <img src="https://github.com/andud14/andud14/blob/main/logos/dtf.svg"  width="40" height="40"/>&nbsp;
 </a>
